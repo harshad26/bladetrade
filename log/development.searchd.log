@@ -1,0 +1,46 @@
+[Tue Dec  9 23:14:06.121 2014] [26805] Child process 26806 has been forked
+[Tue Dec  9 23:14:06.121 2014] [26806] listening on all interfaces, port=3563
+[Tue Dec  9 23:14:06.153 2014] [26806] accepting connections
+[Wed Dec 10 00:20:46.449 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 00:20:46.588 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 00:20:46.740 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 00:20:46.741 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 00:23:21.933 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 00:23:21.971 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 00:23:21.973 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 00:23:21.973 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 01:06:13.964 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 01:06:14.271 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 01:06:14.766 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 01:06:14.766 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 01:32:51.576 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 01:32:51.586 2014] [26806] rotating index 'custom_field_value_delta': started
+[Wed Dec 10 01:32:51.621 2014] [26806] rotating index 'custom_field_value_delta': success
+[Wed Dec 10 01:32:51.621 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 01:32:51.813 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 01:32:51.823 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 01:32:51.824 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 01:32:51.825 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 02:07:02.567 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 02:07:02.660 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 02:07:02.741 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 02:07:02.741 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 02:12:14.335 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 02:12:14.497 2014] [26806] rotating index 'custom_field_value_delta': started
+[Wed Dec 10 02:12:14.558 2014] [26806] rotating index 'custom_field_value_delta': success
+[Wed Dec 10 02:12:14.558 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 02:12:14.905 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 02:12:14.910 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 02:12:14.918 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 02:12:14.918 2014] [26806] rotating index: all indexes done
+[Wed Dec 10 04:28:28.985 2014] [26806] caught SIGHUP (seamless=1, in queue=1)
+[Wed Dec 10 04:28:29.646 2014] [26806] rotating index 'listing_delta': started
+[Wed Dec 10 04:28:30.319 2014] [26806] rotating index 'listing_delta': success
+[Wed Dec 10 04:28:30.320 2014] [26806] rotating index: all indexes done
+[Mon Dec 15 22:19:33.565 2014] [ 5702] Child process 5703 has been forked
+[Mon Dec 15 22:19:33.566 2014] [ 5703] listening on all interfaces, port=3563
+[Mon Dec 15 22:19:33.631 2014] [ 5703] binlog: replaying log /home/harshad/projects/sharetribe/tmp/binlog/development/binlog.001
+[Mon Dec 15 22:19:33.644 2014] [ 5703] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Mon Dec 15 22:19:33.644 2014] [ 5703] binlog: finished replaying /home/harshad/projects/sharetribe/tmp/binlog/development/binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec 15 22:19:33.645 2014] [ 5703] binlog: finished replaying total 1 in 0.014 sec
+[Mon Dec 15 22:19:33.645 2014] [ 5703] accepting connections
