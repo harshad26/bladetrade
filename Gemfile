@@ -75,7 +75,7 @@ gem 'braintree'
 gem "mail_view", "~> 1.0.3"
 gem 'statesman', '~> 0.5.0'
 gem "premailer"
-gem 'mandrill_mailer'
+# gem 'mandrill_mailer'
 gem 'stringex', '~> 2.5.2'
 gem 'validates_timeliness', '~> 3.0'
 gem 'paypal-sdk-permissions',
