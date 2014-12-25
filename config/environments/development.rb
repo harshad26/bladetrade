@@ -39,7 +39,7 @@ Kassi::Application.configure do
     }
   end
 
-  config.mandrill_mailer.default_url_options = { :host => 'localhost' }
+  # config.mandrill_mailer.default_url_options = { :host => 'localhost' }
   config.active_support.deprecation = :log
 
   # Do not compress assets
