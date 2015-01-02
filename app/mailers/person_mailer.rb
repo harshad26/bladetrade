@@ -512,7 +512,7 @@ class PersonMailer < ActionMailer::Base
 
     subject = "A New User #{@username} has signed up"
     
-    premailer_mail(:to => 'patelharshad1@gmail.com',
+    premailer_mail(:to => APP_CONFIG.blade_admin_email,
          :from => community_specific_sender(community),
          :subject => subject) do |format|
       format.html { render :layout => 'email_blank_layout' }
