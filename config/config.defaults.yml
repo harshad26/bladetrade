@@ -114,17 +114,17 @@ default: &default_settings
 
   smtp_email_address: smtp.gmail.com
   smtp_email_port: 587
-  smtp_email_user_name: itserviceyouth@gmail.com
-  smtp_email_password: assanhai@007
+  smtp_email_user_name: bladetrade75@gmail.com
+  smtp_email_password: bittrade@75
   smtp_email_domain: "localhost"
 
   # postmark_api_key:
 
   # Added By Harshad Patel
-  blade_admin_email: "patelharshad1@gmail.com"
+  blade_admin_email: "bladetrade75@gmail.com"
 
   # This will be the from field in the mails sent from Sharetribe
-  sharetribe_mail_from_address: "itserviceyouth@gmail.com"
+  sharetribe_mail_from_address: "bladetrade75@gmail.com"
 
   # The address where the notifications of feedbacks from Sharetribe UI are sent
   feedback_mailer_recipients:  'admins@example.com'
